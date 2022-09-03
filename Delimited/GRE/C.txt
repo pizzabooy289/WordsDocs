@@ -1,0 +1,388 @@
+|cabal|N.|small group of persons secretly united to promote their own interests.|The cabal was defeated when its scheme was discovered.|
+|cache|N.|hiding place.|The detectives followed the sus¬pect until he led them to the cache where he had stored his loot, also v.|
+|cacophonous|||ADJ. discordant; inharmonious. Do the students in the orchestra enjoy the cacophonous sounds they make when they're tuning up? I don't know how theycan stand the racket, cacophony, N.|
+|cadaver|N.|corpse.|In some states, it is illegal to dissect cadavers.|
+|cadaverous|ADJ.|like a corpse; pale.|From his cadaverous appearance, we could see how the disease had ravaged him.|
+|cadence|N.|rhythmic rise and fall (of words or sounds); beat.|Marching down the road, the troops sang out, fol¬lowing the cadence set by the sergeant.|
+|cajole|v.|coax; wheedle.|Cher tried to cajole her father into letting her drive the family car. cajolery, N.|
+|calamity|N.|disaster; misery.|As news of the calamity spread, offers of relief poured in to the stricken community.|
+|calculated|ADJ.|deliberately planned; likely.|Lexy's choice of clothes to wear to the debate tournament was carefully calculated. Her conventional suit was calcu¬lated to appeal to the conservative judges.|
+|caldron|N.|large kettle. "|Why, Mr. Crusoe," said the savage heating the giant caldron, "we'd love to have you for dinner!"|
+|caliber|N.|ability; quality.|Einstein's cleaning the blackboards again? Albert, quit it! A man of your caliber shouldn't have to do such menial tasks.|
+|calligraphy|N.|beautiful writing; excellent penmanship.|As we examine ancient manuscripts, we become impressed with the calligraphy of the scribes.|
+|callous|ADJ.|hardened; unfeeling.|He had worked in the hospital for so many years that he was callous to the suffering in the wards, callus, N.|
+|callow|ADJ.|youthful; immature; inexperienced.|As a freshman, Jack was sure he was a man of the world; as a sophomore, he made fun of freshmen as callow youths. In both cases, his judgment showed just how callow he was.|
+|calorific|ADJ.|heat-producing.|Coal is much more calorific than green wood.|
+|calumny|N.|malicious misrepresentation; slander.|He could endure his financial failure, but he could not bear the calumny that his foes heaped upon him.|
+|camaraderie|N.|good-fellowship.|What he loved best about his job was the sense of camaraderie he and his coworkers shared.|
+|cameo|N.|shell or jewel carved in relief; star's special appearance in a minor role in a film.|Don't bother buying cameos from the street peddlers in Rome: the carvings they sell are clumsy jobs. Did you enjoy Bill Murray's cameo in Little Shop of Horrors? He was onscreen for only a minute, but he cracked me up.|
+|camouflage|v.|disguise; conceal.|In order to rescue Han Solo, Princess Leia camouflaged herself in the helmet and cloak of a space bandit, also N.|
+|canard|N.|unfounded rumor; exaggerated report.|It is almost impossible to protect oneself from such a base canard.|
+|candor|N.|frankness; open honesty.|Jack can carry candorioo far: when he told Jill his honest opinion of her, she nearly slapped his face, candid, ADJ.|
+|canine|ADJ.|related to dogs; doglike.|Some days the canine population of Berkeley seems almost to out¬number the human population.|
+|canker|N.|any ulcerous sore; any evil.|Poverty is a canker in the body politic; it must be cured.|
+|canny|ADJ.|shrewd; thrifty.|The canny Scotsman was more than a match for the swindlers.|
+|canon|N.|collection or authoritative list of books (e.g., by an author, or accepted as scripture); rule or standard set by ecclesiastical authority.|Scholars hotly debated whether the newly discovered sonnet should be ac¬cepted as part of the Shakespearean canon.|
+|cant|N.|insincere expressions of piety; jargon of thieves.|Shocked by news of the minister's extramarital love affairs, the worshippers dismissed his talk about the sacredness of marriage as mere cant. Cant is a form of hypocrisy: those who can, pray; those who cant, pretend.|
+|cantankerous|ADJ.|ill-humored; irritable.|Constantly complaining about his treatment and refusing to co¬operate with the hospital staff, he was a cantankerous patient.|
+|cantata|N.|story set to music, to be sung by a chorus.|The choral society sang the new cantata composed by its leader.|
+|canter|N.|slow gallop.|Because the racehorse had outdistanced its competition so easily, the reporter wrote that the race was won in a canter, also v.|
+|canto|N.|division of a long poem.|Dante's poetic masterpiece The Divine Comedy is divided into cantos.|
+|canvass|v.|determine or seek opinions, votes, etc.|After canvassing the sentiments of his constituents, the con¬gressman was confident that he represented the major¬ity opinion of his district, also N.|
+|capacious|ADJ.|spacious.|In the capacious areas of the railroad terminal, thousands of travelers lingered while waiting for their trains.|
+|capacity|N.|mental or physical ability; role; ability to accommodate.|Mike had the capacity to handle several jobs at once. In his capacity as president of SelecTronics he marketed an electronic dictionary with a capacity of 200,000 words.|
+|capillary|ADJ.|having a very fine bore.|The changes in surface tension of liquids in capillary vessels is of special interest to physicists, also N.|
+|capitulate|v.|surrender.|The enemy was warned to capitulate or face annihilation.|
+|caprice|N.|whim.|She was an unpredictable creature, acting on caprice, never taking thought of the consequences.|
+|capricious|ADJ.|unpreditable; fickle.|The storm was capricious: it changed course constantly. Jill was capri¬cious, too: she changed boyfriends almost as often as she changed clothes.|
+|caption|N.|title; chapter heading; text under illustration.|The captions that accompany The Far Side cartoons are almost as funny as the pictures, also v.|
+|captious|ADJ.|faultfinding.|His criticisms were always captious and frivolous, never offering constructive suggestions.|
+|carafe|N.|glass water bottle; decanter.|With each dinner, the patron receives a carafe of red or white wine.|
+|carapace|N.|shell covering the back (of a turtle, crab, etc.).|At the children's zoo, Richard perched on top of the giant turtle's hard carapace as the creature slowly made its way around the enclosure.|
+|carat|N.|unit of weight for precious stones; measure of fineness of gold.|He gave her a diamond that weighed three carats and was mounted in an eighteen-carar gold band.|
+|carcinogenic|ADJ.|causing cancer.|Many supposedly harmless substances have been revealed to be carcinogenic.|
+|cardinal|ADJ.|chief.|If you want to increase your word power, the cardinal rule of vocabulary-building is to read.|
+|cardiologist|N.|doctor specializing in ailments of the heart.|When the pediatrician noticed Philip had a slight heart murmur, she referred him to a cardiologist for further tests.|
+|careen|v.|lurch; sway from side to side.|The taxicab careened wildly as it rounded the corner.|
+|caricature|N.|distortion; burlesque.|The caricatures he drew always emphasized personal weaknesses of the people he burlesqued, also v.|
+|carillon|N.|a set of bells capable of being played.|The carillon in the bell tower of the Coca-Cola pavilion at the New York World's Fair provided musical entertainment every hour.|
+|carnage|N.|destruction of life.|The film The Killing Fields vividly depicts the carnage wreaked by Pol Pot's followers in Cambodia.|
+|carnal|ADJ.|fleshly.|Is the public more interested in carnal pleasures than in spiritual matters? Compare the number of people who read Playboy daily to the number of those who read the Bible every day.|
+|carnivorous|ADJ.|meat-eating.|The lion's a carnivorous beast; a hunk of meat makes up his feast. A cow is not a carnivore', she likes the taste of grain, not gore.|
+|carousal|N.|drunken revel.|The party degenerated into an ugly carousal.|
+|carping|N.|petty criticism; fault-finding.|Welcoming constructive criticism, Lexy appreciated her editor's com¬ments, finding them free of carping, also ADJ.|
+|carrion|N.|rotting flesh of a dead body.|Buzzards are nature's scavengers; they eat the carrion left behind by other predators.|
+|cartographer|N.|map-maker.|Though not a professional cartographer, Tolkien was able to construct a map of his fictional world.|
+|cascade|N.|small waterfall.|We were too tired to appreciate the beauty of the many cascades because we had to detour around them to avoid being drenched by the torrents cascading down.|
+|caste|N.|one of the hereditary classes in|Hindu society, social stratification; prestige. The differences created by caste in India must be wiped out if true democracy is to prevail in that country.|
+|castigation|N.|punishment; severe criticism.|Sensitive even to mild criticism, Woolf could not bear the castigation that she found in certain reviews, castigate, v.|
+|casualty|N.|serious or fatal accident.|The number of automotive casualties on this holiday weekend was high.|
+|cataclysm|N.|deluge; upheaval.|A cataclysm such as the French Revolution affects all countries, cataclysmic, ADJ.|
+|catalyst|N.| agent that brings about a chemical change while  it  remains  unaffected  and   unchanged.   Many chemical  reactions  cannot take  place  without the presence of a catalyst.|
+|catapult|N.|slingshot; hurling machine.|Airplanes are sometimes launched from battleships by catapults, also v.|
+|cataract|N.|great waterfall; eye abnormality.|She gazed with awe at the mighty cataract known as Niagara Falls.|
+|catastrophe|N.|calamity; disaster.|The 1906 San Francisco earthquake was a catastrophe that destroyed most of the city. A similar earthquake striking today could have even more catastrophic results.|
+|catcall|N.|shout of disapproval; boo.|Every major league pitcher has off days during which he must learn to ignore catcalls and angry hisses from the crowd.|
+|catechism|N.|book for religious instruction; instruction by question and answer.|He taught by engaging his pupils in a catechism until they gave him the correct answer.|
+|categorical|ADJ.|without exceptions; unqualified; absolute.|Though the captain claimed he was never, never sick at sea, he finally qualified his categorical denial: he was "hardly ever" sick at sea.|
+|catharsis|N.|purging or cleansing of any passage of the body.|Aristotle maintained that tragedy created a catharsis by purging the soul of base concepts.|
+|cathartic|N.|purgative.|Some drugs act as laxatives when taken in small doses but act as cathartics when taken in much larger doses, also ADJ.|
+|catholic|ADJ.|universal; wide-ranging liberal.|He was extremely catholic in his taste and read everything he could find in the library.|
+|caucus|N.|private meeting of members of a party to select officers or determine policy.|At the opening of Congress the members of the Democratic Party held a caucus to elect the majority leader of the House and the party whip.|
+|caulk|v.|to make watertight (by plugging seams).|When water from the shower leaked into the basement, we knew it was time to caulk the tiles at the edges of the shower stall.|
+|causal|ADJ.|implying a cause-and-effect relationship.|The psychologist maintained there was a causal relationship between the nature of one's early childhood experiences and one's adult personality, causality, N.|
+|caustic|ADJ.|burning; sarcastically biting.|The critic's caustic remarks angered the hapless actors who were the subjects of his sarcasm.|
+|cauterize|v.|burn with hot iron or caustic.|In order to prevent infection, the doctor cauterized the wound.|
+|cavalcade|N.|procession; parade.|As described by Chaucer, the cavalcade of Canterbury pilgrims was a motley group.|
+|cavalier|ADJ.|casual and offhand; arrogant.|Sensitive about having her ideas taken lightly, Marcia felt insulted by Mark's cavalier dismissal of her suggestion.|
+|cavil|v.|make frivolous objections.|I respect your sensible criticisms, but I dislike the way you cavil about unimportant details, also N.|
+|cede|v.|yield (title, territory) to; surrender formally.|Eventually the descendants of England's Henry II were forced to cede their French territories to the King of France, cession, N.|
+|celerity|N.|speed; rapidity.|Hamlet resented his mother's celerity in remarrying within a month after his father's death.|
+|celestial|ADJ.|heavenly.|She spoke of the celestial joys that awaited virtuous souls in the hereafter.|
+|celibate|ADJ.|abstaining from sexual intercourse; unmarrried.|Though the late Havelock Ellis wrote extensively about sexual customs and was considered an expert in such matters, recent studies maintain he was celibate throughout his life, celibacy, N.|
+|censor|N.|overseer of morals; person who eliminates inappropriate matter.|Soldiers dislike having their mail read by a censor but understand the need for this precaution, also v.|
+|censorious|ADJ.|critical.|Censorious people delight in casting blame.|
+|censure|v.|blame; criticize.|The senator was censured tor behavior inappropriate to a member of Congress, also N.|
+|centaur|N.| mythical figure, half man and half horse.|I was particularly impressed by the statue of the centaur in the Roman Hall of the museum.|
+|centigrade|ADJ.|denoting a widely used temperature scale (basically same as|Celsius). On the centigrade thermometer, the freezing point of water is zero degrees.|
+|centrifugal|ADJ.|radiating; departing from the center.|Many automatic drying machines remove excess mois¬ture from clothing by centrifugal force.|
+|centrifuge|N.|machine that separates substances by whirling them.|At the dairy, we employ a centrifuge to separate cream from milk, also v.|
+|centripetal|ADJ.|tending toward the center.|Does centri¬petal torce or the force of gravity bring orbiting bodies to the earth's surface?|
+|centurion|N.||Roman army officer. Because he was in command of a company of one hundred soldiers, he was called a centurion.|
+|cerebral|ADJ.|pertaining to the brain or intellect.|The con¬tent of philosophical works is cerebral in nature and requires much thought.|
+|cerebration|N.|thought.|Mathematics problems sometimes require much cerebration.|
+|ceremonious|ADJ.|marked by formality.|Ordinary dress would be inappropriate at so ceremonious an affair.|
+|certitude|N.|certainty.|Though there was no certitude of his getting the job, Lou thought he had a good chance of being hired.|
+|cessation|N.|stoppage.|The airline's employees threat¬ened a cessation of all work if management failed to meet their demands, cease, v.|
+|cession|N.|yielding to another; ceding.|The cession of Alaska to the United States is discussed in this chapter.|
+|chafe|v.|warm by rubbing; make sore (by rubbing).|Chilled, he chafed his hands before the fire. The collar of his school uniform chafed Tom's neck, but not as much the school's strict rules chafed his spirit, also N.|
+|chaff|N.|worthless products of an endeavor.|When you separate the wheat from the chaff, be sure you throw out the chaff.|
+|chaffing|ADJ.|bantering; joking.|Sometimes Chad's flippant, chaffing remarks annoy us. Still, Chad's chaffing keeps us laughing.|
+|chagrin|N.|vexation (caused by humiliation or injured pride); disappointment.|Embarrassed by his parents' shabby, working-class appearance, Doug felt their visit to his school would bring him nothing but chagrin. A person filled with chagrin doesn't grin: he's too mortified.|
+|chalice|N.|goblet; consecrated cup.|In a small room adjoining the cathedral, many ornately decorated chalices made by the most famous European goldsmiths were on display.|
+|chameleon|N.|lizard that changes color in different situa|¬tions. Like the chameleon, he assumed the political coloration of every group he met.|
+|champion|v.|support militantly.|Martin Luther King, Jr., won the Nobel Peace Prize because he championed the oppressed in their struggle for equality, also N.|
+|chaotic|ADJ.|in utter disorder.|He tried to bring order into the chaotic state of affairs, chaos, N.|
+|charisma|N.|divine gift; great popular charm or appeal.|Political commentators have deplored the importance of a candidate's charisma in these days of television campaigning.|
+|charlatan|N.|quack; pretender to knowledge.|When they realized that the Wizard didn't know how to get them back to Kansas, Dorothy and her friends were sure they'd been duped by a charlatan.|
+|chary|ADJ.|cautious; sparing or restrained about giving.|A prudent, thrifty New Englander, DeWitt was as chary of investing money in junk bonds as he was chary of paying people unnecessary compliments.|
+|chase|v.|ornament a metal surface by indenting.|With his hammer, he carefully chased an intricate design onto the surface of the chalice, (secondary meaning)|
+|chasm|N.|abyss.|They could not see the bottom of the chasm.|
+|chassis|N.|framework and working parts of an auto|¬mobile. Examining the car after the accident, the owner discovered that the body had been ruined but that the chassis was unharmed.|
+|chaste|ADJ.|pure; virginal; modest.|To ensure that his bride would stay chaste while he was off to the wars, the cru¬sader had her fitted out with a chastity belt, chastity, N.|
+|chasten|v.|discipline; punish in order to correct.|Whom God loves, God chastens.|
+|chastise||v. punish.|I must chastise you for this offense.|
+|chauvinist|N.|blindly devoted patriot; zealous adherent of a group or cause.|A chauvinist cannot recognize any faults in his country, no matter how flagrant they may be. Likewise, a male chauvinist cannot recognize how biased he is in favor of his own sex, no matter how flagrant that bias may be. chauvinistic, ADJ.|
+|check|v.|stop motion; curb or restrain.|Thrusting out her arm, Grandma checked Bobby's lunge at his sister. "Young man," she said, "you'd better check your tem¬per." (secondary meaning)|
+|checkered|ADJ.|marked by changes in fortune.|During his checkered career he had lived in palatial mansions and in dreary boardinghouses.|
+|cherubic|ADJ.|angelic; innocent-looking.|With her cheerful smile and rosy cheeks, she was a particularly cheru¬bic child.|
+|chicanery|N.|trickery; deception.|Those sneaky lawyers misrepresented what occurred, made up all sorts of implausible alternative scenarios to confuse the jurors, and in general depended on chicanery to win the case.|
+|chide|v.|scold.|Grandma began to chide Steven for his lying.|
+|chimerical|ADJ.|fantastically improbable; highly unrealistic; imaginative.|As everyone expected, Ted's chimerical scheme to make a fortune by raising ermines in his back¬yard proved a dismal failure, chimera, N.|
+|chisel|N.|wedgelike tool for cutting.|With his hammer and chisel, the sculptor chipped away at the block of marble.|
+|chisel|v.|swindle or cheat; cut with a chisel.|That crook chiseled me out of a hundred dollars when he sold me that "marble" statue he'd chiseled out of some cheap hunk of rock.|
+|chivalrous|ADJ.|courteous; faithful; brave.|Chivalrous behavior involves noble words and good deeds.|
+|choleric|ADJ.|hot-tempered.|His flushed, angry face indicated a choleric nature.|
+|choreography|N.|art of representing dances in written symbols; arrangement of dances.|Merce Cunningham uses a computer in designing choreography: a software program allows him to compose arrangements of possible moves and immediately view them onscreen.|
+|chortle|v.|chuckle with delight.|When she heard that her rival had just been jailed for embezzlement, she chortled with joy. She was not a nice lady.|
+|chronic|ADJ.|long established, as a disease.|The doctors were finally able to attribute his chronic headaches and nausea to traces of formaldehyde gas in his apartment.|
+|chronicle|v.|report; record (in chronological order).|The gossip columnist was paid to chronicle the latest escapades of the socially prominent celebrities, also N.|
+|churlish|ADJ.|boorish; rude.|Dismayed by his churlish manners at the party, the girls vowed never to invite him again.|
+|ciliated|ADJ.|having minute hairs.|The paramecium is a ciliated, one-celled animal.|
+|cipher|N.|nonentity; worthless person or thing.|She claimed her ex-husband was a total cipher and won¬dered why she had ever married him.|
+|cipher|N.|secret code.|Lacking his code book, the spy was unable to decode the message sent to him in cipher.|
+|circlet|N.|small ring; band.|This tiny circlet is very costly because it is set with precious stones.|
+|circuitous|ADJ.|roundabout.|Because of the traffic con¬gestion on the main highways, she took a circuitous route, circuit, N.|
+|circumlocution|N.|indirect or roundabout expression.|He was afraid to call a spade a spade and resorted to circumlocutions to avoid direct reference to his subject.|
+|circumscribe|v.|limit; confine.|Although I do not wish to circumscribe your activities, I must insist that you com¬plete this assignment before you start anything else.|
+|circumspect|ADJ.|prudent; cautious.|Investigating before acting, she tried always to be circumspect.|
+|circumvent|v.|outwit; baffle.|In order to circumvent the enemy, we will make two preliminary attacks in other sections before starting our major campaign.|
+|cistern|N.|reservoir or water tank.|The farmers were able to withstand the dry season by using rainwater they had stored in an underground cistern.|
+|citadel|N.|fortress.|The citadel overlooked the city like a protecting angel.|
+|cite|v.|quote; commend.|She could cite passages in the Bible from memory, citation, N.|
+|civil|ADJ.|having to do with citizens or the state; courte|¬ous and polite. Although Internal Revenue Service agents are civil servants, they are not always civil to suspected tax evaders.|
+|clairvoyant|ADJ., N.|having foresight; fortuneteller.|Cassandra's clairvoyant warning was not heeded by the Trojans, clairvoyance, N.|
+|clamber|v.|climb by crawling.|She clambered over the wall.|
+|clamor|N.|noise.|The clamor of the children at play out¬side made it impossible for her to take a nap. also v.|
+|clandestine|ADJ.|secret.|After avoiding their chaperon, the lovers had a clandestine meeting.|
+|clangor|N.|loud, resounding noise.|The blacksmith was accustomed to the clangor of hammers on steel.|
+|clapper|N.|striker (tongue) of a bell.|Wishing to be un¬disturbed by the bell, Dale wound his scarf around the clapperto muffle its striking.|
+|clarion|ADJ.|shrill, trumpetlike sound.|We woke to the clarion call of the bugle.|
+|claustrophobia|N.|fear of being locked in.|His fellow classmates laughed at his claustrophobia and often threatened to lock him in his room.|
+|clavicle|N.|collarbone.|Even though he wore shoulder pads, the football player broke his clavicle during a prac¬tice scrimmage.|
+|cleave|v.|split or sever; cling to; remain faithful to.|With her heavy cleaver, Julia Child can cleave a whole roast duck in two. Soaked through, the soldier tugged at the uniform that cleaved annoyingly to his body. He would cleave to his post, come rain or shine, cleavage, N. cloven, ADJ.|
+|cleft|N.|split.|Trying for a fresh handhold, the mountain climber grasped the edge of a cleft in the sheer rock-face, also ADJ.|
+|clemency|N.|disposition to be lenient; mildness, as of the weather.|The lawyer was pleased when the case was sent to Judge Smith's chambers because Smith was noted for her clemency toward first offenders.|
+|cliche|N.|phrase dulled in meaning by repetition.|High school compositions are often marred by such cliches as "strong as an ox."|
+|clientele|N.|body of customers.|The rock club attracted a young, stylish clientele.|
+|climactic|ADJ.|relating to the highest point.|When he reached the climactic portions of the book, he could not stop reading, climax, N.|
+|clime|N.|region; climate.|His doctor advised him to move to a milder clime.|
+|clique|N.|small, exclusive group.|Fitzgerald wished that he belonged to the clique of popular athletes and big men on campus who seemed to run Princeton's social life.|
+|cloister|N.|monastery or convent.|The nuns lived in the cloister.|
+|clout|N.|great influence (especially political or social).|Gatsby wondered whether he had enough clout to be admitted to the exclusive club.|
+|cloying|ADJ.|distasteful (because excessive); excessively sweet or sentimental.|Disliking the cloying sweetness of standard wedding cakes, Jody and Tom chose a home¬made carrot cake for their reception, cloy, v.|
+|coagulate||v. thicken; congeal; clot.|Even after you remove the pudding from the burner, it will continue to coagulate as it stands, coagulant, N.|
+|coalesce|v.|combine; fuse.|The brooks coalesce into one large river. When minor political parties coalesce, their coalescence may create a major coalition.|
+|coalition|N.|partnership; league; union.|The Rainbow Coalition united people of all races in a common cause.|
+|coda|||N. concluding section of a musical or literary composition. The piece concluded with a distinctive coda that strikingly brought together various motifs.|
+|coddle|v.|treat gently; pamper.|Don't coddle the children so much; they need a taste of discipline.|
+|codicil|N.|supplement to the body of a will.|Miss Havisham kept her lawyers busy drawing up codicils to her already complicated will.|
+|codify|v.|arrange (laws, rules) as a code; classify.|We need to take the varying rules and regulations of the dif¬ferent health agencies and codify them into a national health code.|
+|coercion|N.|use of force to get someone to obey.|The inquisitors used both physical and psychological coercion to force Joan of Arc to recant her assertions that her visions were sent by God. coerce, v.|
+|coeval|ADJ.|living at the same time as; contemporary.|Coeval with the dinosaur, the pterodactyl flourished during the Mesozoic era.|
+|cog|N.|tooth projecting from a wheel.|A bicycle chain moves through a series of cogs in order to propel the bike.|
+|cogent|||ADJ. convincing. It was inevitable that David chose to go to Harvard: he had several cogent reasons for doing so, including a full-tuition scholarship. Katya argued her case with such cogency that the jury had to decide in favor of her client.|
+|cogitate|v.|think over.|Cogitate on this problem; the solu¬tion will come.|
+|cognate|ADJ.|related linguistically; allied by blood; similar or akin in nature.|The English word "mother" is cognate to the Latin word "mater," whose influence is visible in the words "maternal" and "maternity." also N.|
+|cognitive|ADJ.|having to do with knowing or perceiving related to the mental processes.|Though Jack was emotionally immature, his cognitive development was admirable; he was very advanced intellectually.|
+|cognizance|N.|knowledge.|During the election campaign, the two candidates were kept in full cognizance of the international situation.|
+|cohabit|v.|live together.|Many unwed couples who cohabit peacefully for years wind up fighting night and day once they marry.|
+|cohere|v.|stick together.|Solids have a greater tendency to cohere than liquids.|
+|cohesion|N.|tendency to keep together.|A firm believer in the maxim "Divide and conquer," the emperor, by lies and trickery, sought to disrupt the cohesion of the free nations.|
+|cohorts|N.|armed band.|Caesar and his Roman cohorts conquered almost all of the known world.|
+|coiffure|N.|hairstyle.|You can make a statement with your choice of coiffure: in the '60's many African-Americans affirmed their racial heritage by wearing their hair in Afros.|
+|coin|v.|make coins; invent or fabricate.|Mints coin good money; counterfeiters coin fakes. Slanderers coin nasty rumors; writers coin words. A neologism is a newly coined expression.|
+|coincidence|N.|the chance occurrence, at the same time, of two or more seemingly connected events.|Was it just a coincidence that John and she had met at the market for three days running, or was he deliberately trying to seek her out? coincidental, ADJ.|
+|colander|N.|utensil with perforated bottom used for straining.|Before serving the spaghetti, place it in a colander to drain it.|
+|collaborate|v.|work together.|Two writers collaborated in preparing this book.|
+|collage|N.|work of art put together from fragments.|Scraps of cloth, paper doilies, and old photographs all went into her collage.|
+|collate|v.|examine in order to verify authenticity; arrange in order.|They collated the newly found manuscripts to determine their age.|
+|collateral|N.|security given for loan.|The sum you wish to borrow is so large that it must be secured by collateral.|
+|collation|N.|a light meal.|Tea sandwiches and cookies were offered at the collation.|
+|colloquial|ADJ.|pertaining to conversational or common speech; informal.|Some of the new colloquial reading passages on standardized tests have a conversational tone intended to make them more appealing to test-takers.|
+|colloquy|N.|informal discussion.|While a colloquium often is a formal seminar or conference, a colloquy tradi¬tionally is merely a conversational exchange.|
+|collusion|N.|conspiring in a fraudulent scheme.|The swindlers were found guilty of collusion.|
+|colossal|ADJ.|huge.|Radio City Music Hall has a colossal stage.|
+|colossus|N.|gigantic statue.|The legendary Colossus of Rhodes, a bronze statue of the sun god that dominated the harbor of the Greek seaport, was one of the Seven Wonders of the World.|
+|comatose|ADJ.|in a coma; extremely sleepy.|The long-winded orator soon had his audience in a comatose state.|
+|combustible|ADJ.|easily burned.|After the recent out¬break of fires in private homes, the fire commissioner ordered that all combustible materials be kept in safe containers, also N.|
+|comely|ADJ.|attractive; agreeable.|I would rather have a poor and comely wife than a rich and homely one.|
+|comestible|N.|something fit to be eaten.|The roast turkey and other comestibles, the wines, and the excellent service made this Thanksgiving dinner particularly memorable.|
+|comeuppance|N.|rebuke; deserts.|After his earlier rudeness, we were delighted to see him get his comeuppance.|
+|comity|N.|courtesy; civility.|A spirit of comity should exist among nations.|
+|commandeer|v.|to draft for military purposes; to take for public use.|The policeman commandeered the first car that approached and ordered the driver to go to the nearest hospital.|
+|commemorative|ADJ.|remembering; honoring.|The new commemorative stamp honors the late Martin Luther King, Jr.|
+|commensurate|||ADJ. equal in extent. Your reward will be commensurate with your effort.|
+|commiserate|v.|feel or express pity or sympathy for.|Her friends commiserated with the widow.|
+|commodious|ADJ.|spacious and comfortable.|After sleeping in small roadside cabins, they found their hotel suite commodious.|
+|communal|ADJ.|held in common; a group of people.|When they were divorced, they had trouble dividing their communal property.|
+|compact|N.|agreement; contract.|The signers of the Mayflower Compact were establishing a form of government.|
+|compact|ADJ.|tightly packed; firm; brief.|His short, compact body was better suited to wrestling than to basketball.|
+|compatible|ADJ.|harmonious; in harmony with.|They were compatible neighbors, never quarreling over unimpor¬tant matters, compatibility, N.|
+|compelling|ADJ.|overpowering; irresistible in effect.|The prosecutor presented a well-reasoned case, but the defense attorney's compelling arguments for leniency won over the jury.|
+|compendium||v. brief, comprehensive summary.|This text can serve as a compendium of the tremendous amount of new material being developed in this field.|
+|compensatory|ADJ.|making up for; repaying.|Can a compensatory education program make up for the inadequate schooling he received in earlier years?|
+|compilation|N.|listing of statistical information in tabular or book form.|The compilation of available scholarships serves a very valuable purpose.|
+|compile|v.|assemble; gather; accumulate.|We planned to compile a list of the words most frequently used on the GRE.|
+|complacency|N.|self-satisfaction; smugness.|Full of complacency about his latest victories, he looked smugly at the row of trophies on his mantelpiece, complacent, ADJ.|
+|complaisant|||ADJ.  trying  to  please;  obliging.  The courtier obeyed  the  king's  orders  in  a  complaisant manner.|
+|complement|v.|complete; consummate; make perfect.|The waiter recommended a glass of port to complement the cheese, also N.|
+|complementary|ADJ.|serving to complete something.|John's and Lexy's skills are complementary, he's good at follow¬ing a daily routine, while she's great at improvising and handling emergencies. Together they make a great team.|
+|compliance|N.|readiness to yield; conformity in fulfilling requirements.|Bullheaded Bill was not noted for his easy compliance to the demands of others. As an architect, however, Bill recognized that his design for the new school had to be in compliance with the local building code.|
+|compliant|||ADJ. yielding; conforming to requirements. Because Joel usually gave in and went along with what¬ ever his friends desired, his mother worried that he might be too compliant.|
+|complicity|N.|participation; involvement.|You cannot keep your complicity in this affair secret very long; you would be wise to admit your involvement immediately.|
+|component|N.|element; ingredient.|I wish all the compo¬nents of my stereo system were working at the same time.|
+|comport|v.|bear one's self; behave.|He comported himself with great dignity.|
+|composure|N.|mental calmness.|Even the latest work crisis failed to shake her composure.|
+|compound|v.|combine; constitute; pay interest; increase.|The makers of the popular cold remedy compounded a nasal decongestant with an antihistamine. also N.|
+|comprehensive|ADJ.|thorough; inclusive.|This book pro¬vides a comprehensive review of verbal and math skills for the GRE.|
+|compress|v.|close; squeeze; contract.|She compressed the package under her arm.|
+|comprise|v.|include; consist of.|If the District of Columbia were to be granted statehood, the United States of America would comprise fifty-one states, not just fifty.|
+|compromise|v.|adjust or settle by making mutual con|¬cessions; endanger the interests or reputation of. Sometimes the presence of a neutral third party can help adversaries compromise their differences. Unfortunately, you're not neutral. Therefore, your presence here com¬promises our chances of reaching an agreement, also N.|
+|compunction|N.|remorse.|The judge was especially severe in his sentencing because he felt that the criminal had shown no compunction for his heinous crime.|
+|compute|v.|reckon; calculate.|He failed to compute the interest, so his bank balance was not accurate.|
+|concatenate|v.|link as in a chain.|It is difficult to under¬stand how these events could concatenate as they did without outside assistance.|
+|concave|ADJ.|hollow.|The back-packers found partial shelter from the storm by huddling against the concave wall of the cliff.|
+|concede|v.|admit; yield.|Despite all the evidence Monica had assembled, Mark refused to concede that she was right.|
+|conceit|N.|vanity or self-love; whimsical idea; extra|¬vagant metaphor. Although Jack was smug and puffed up with conceit, he was an entertaining companion, always expressing himself in amusing conceits and witty turns of phrase.|
+|concentric|ADJ.|having a common center.|The target was made of concentric circles.|
+|conception|N.|beginning; forming of an idea.|At the first conception of the work, he was consulted, conceive, v.|
+|concerted|ADJ.|mutually agreed on; done together.|All the Girl Scouts made a concerted effort to raise funds for their annual outing. When the movie star appeared, his fans let out a concerted sigh.|
+|concession|N.|an act of yielding.|Before they could reach an agreement, both sides had to make certain concessions.|
+|conciliatory|ADJ.|reconciling; soothing.|She was still angry despite his conciliatory words, conciliate, v.|
+|concise|ADJ.|brief and compact.|When you define a new word, be concise: the shorter the definition, the easier it is to remember.|
+|conclave|N.|private meeting.|He was present at all their conclaves as an unofficial observer.|
+|conclusive|ADJ.|decisive; ending all debate.|When the stolen books turned up in John's locker, we finally had conclusive evidence of the identity of the mysterious thief.|
+|concoct|v.|prepare by combining; make up in concert.|How did the inventive chef ever concoct such a strange dish? concoction, N.|
+|concomitant|N.|that which accompanies.|Culture is not always a concomitant of wealth, also ADJ.|
+|concord|N.|harmony.|Watching Tweedledum and Tweedledee battle, Alice wondered why the two brothers could not manage to live in concord.|
+|concur|v.|agree.|Did you concur with the decision of the court or did you find it unfair?|
+|concurrent|ADJ.|happening at the same time.|In America, the colonists were resisting the demands of the mother country; at the concurrent moment in France, the middle class was sowing the seeds of rebellion.|
+|condescend|v.|bestow courtesies with a superior air.|The king condescended to grant an audience to the friends of the condemned man. condescension, N.|
+|condign|ADJ.|adequate; deservedly severe.|The public approved the condign punishment for the crime.|
+|condiments|N.|seasonings; spices.|Spanish food is full of condiments.|
+|condole|v.|express sympathetic sorrow.|His friends gathered to condole with him over his loss, condo¬lence, N.|
+|condone||v. overlook; forgive;  give tacit approval; excuse.|Unlike Widow Douglass, who condoned Huck's minor offenses, Miss Watson did nothing but scold.|
+|conducive|ADJ.|helpful; contributive.|Rest and proper diet are conducive to good health.|
+|conduit|N.|aqueduct; passageway for fluids.|Water was brought to the army in the desert by an improvised conduit from the adjoining mountain.|
+|confidant|N.|trusted friend.|He had no confidants with whom he could discuss his problems at home.|
+|confine|v.|shut in; restrict.|The terrorists had confined their prisoner in a small room. However, they had not chained him to the wall or done anything else to confine his movements, confinement, N.|
+|confiscate|v.|seize; commandeer.|The army confiscated all available supplies of uranium.|
+|conflagration|N.|great fire.|In the conflagration that fol¬lowed the 1906 earthquake, much of San Francisco was destroyed.|
+|confluence|N.|flowing together; crowd.|They built the city at the confluence of two rivers.|
+|conformity|N.|harmony; agreement.|In conformity with our rules and regulations, I am calling a meeting of our organization.|
+|confound||v. confuse; puzzle.|No mystery could confound Sherlock Holmes for long.|
+|congeal|v.|freeze; coagulate.|His blood congealed in his veins as he saw the dread monster rush toward him.|
+|congenial|ADJ.|pleasant; friendly.|My father loved to go out for a meal with congenial companions.|
+|congenital|ADJ.|existing at birth.|Doctors are able to cure some congenital deformities such as cleft palates by performing operations on infants.|
+|conglomeration|N.|mass of material sticking together.|In such a conglomeration of miscellaneous statistics, it was impossible to find a single area of analysis.|
+|congruence|N.|correspondence of parts; harmonious rela|¬tionship. The student demonstrated the congruence of the two triangles by using the hypotenuse-leg theorem.|
+|congruent|ADJ.|in agreement; corresponding.|In formu¬lating a hypothesis, we must keep it congruent with what we know of the real world; it cannot disagree with our experience.|
+|conifer|N.|pine tree; cone-bearing tree.|According to geol¬ogists, the conifers were the first plants to bear flowers.|
+|conjecture|N.|surmise; guess.|I will end all your conjec¬tures', I admit I am guilty as charged, also v.|
+|conjugal|ADJ.|pertaining to marriage.|Their dreams of conjugal bliss were shattered as soon as their tempera¬ments clashed.|
+|conjure|v.|summon a devil; practice magic; imagine or invent.|Sorcerers conjure devils to appear. Magicians conjure white rabbits out of hats. Political candidates con¬jure up images of reformed cities and a world at peace.|
+|connivance|N.|pretense of ignorance of something wrong; assistance; permission to offend.|With the con¬nivance of his friends, he plotted to embarrass the teacher, connive, v.|
+|connoisseur|N.|person competent to act as a judge of art, etc.; a lover of an art.|She had developed into a connoisseur of fine china.|
+|connotation|N.|suggested or implied meaning of an expression.|Foreigners frequently are unaware of the connotations of the words they use.|
+|connubial|ADJ.|pertaining to marriage or the matrimonial state.|In his telegram, he wished the newlyweds a lifetime of connubial bliss.|
+|consanguinity|N.|kinship.|The lawsuit developed into a test of the consanguinity of the claimant to the estate.|
+|conscientious|ADJ.|scrupulous; careful.|A conscientious editor, she checked every definition for its accuracy.|
+|conscript|N.|draftee; person forced into military service.|Did Rambo volunteer to fight in Vietnam, or was he a conscript, drafted against his will? also v.|
+|consecrate|v.|dedicate; sanctify.|We shall consecrate our lives to this noble purpose.|
+|consensus|N.|general agreement.|The consensus indi¬cates that we are opposed to entering into this pact.|
+|consequential|ADJ.|pompous; self-important.|Convinced of his own importance, the actor strutted about the dress¬ing room with a consequential air.|
+|conservatory|N.|school of the fine arts (especially music or drama).|A gifted violinist, Marya was selected to study at the conservatory.|
+|consign|v.|deliver officially; entrust; set apart.|The court consigned the child to her paternal grandmother's care, consignment, N.|
+|consistency|N.|absence of contradictions; dependability; uniformity; degree of thickness.|Holmes judged pud¬dings and explanations on their consistency, he liked his puddings without lumps and his explanations without improbabilities.|
+|console|v.|lessen sadness or disappointment; give com|¬fort. When her father died, Marius did his best to console Cosette. consolation, N.|
+|consolidation|N.|unification; process of becoming firmer or stronger.|The recent consolidation of several small air¬lines into one major company has left observers of the industry wondering whether room still exists for the "little guy" in aviation, consolidate, v.|
+|consonance|N.|harmony; agreement.|Her agitation seemed out of consonance with her usual calm.|
+|consort|v.|associate with.|We frequently judge people by the company with whom they consort.|
+|consort|N.|husband or wife.|The search for a consort tor the young Queen Victoria ended happily.|
+|conspiracy|N.|treacherous plot.|Brutus and Cassius joined in the conspiracy to kill Julius Caesar.|
+|constituent|N.|supporter.|The congressman received hundreds of letters from angry constituents after the Equal Rights Amendment failed to pass.|
+|constraint|N.|compulsion; repression of feelings.|There was a feeling of constraint in the room because no one dared to criticize the speaker, constrain, v.|
+|construe|v.|explain; interpret.|If I construe your remarks correctly, you disagree with the theory already advanced.|
+|consummate|ADJ.|complete.|I have never seen anyone who makes as many stupid errors as you do; you must be a consummate idiot, also v.|
+|contagion|N.|infection.|Fearing contagion, they took drastic steps to prevent the spread of the disease.|
+|contaminate|v.|pollute.|The sewage system of the city so contaminated the water that swimming was forbidden.|
+|contempt|N.|scorn; disdain.|The heavyweight boxer looked on ordinary people with contempt, scorning them as weaklings who couldn't hurt a fly. We thought it was contemptible of him to be contemptuous of people for being weak.|
+|contend|v.|struggle; compete; assert earnestly.|In Revolt of the Black Athlete, sociologist Harry Edwards contends that young black athletes have been exploited by some college recruiters, contention, N.|
+|contention|||N. claim; thesis. It is our contention that, if you follow our tactics, you will boost your score on the GRE. contend, v.|
+|contentious|||ADJ. quarrelsome. Disagreeing violently with the referees' ruling, the coach became so contentious that the referees threw him out of the game.|
+|contest|v.|dispute.|The defeated candidate attempted to contest the election results.|
+|context|N.|writings preceding and following the passage quoted.|Because these lines are taken out of context, they do not convey the message the author intended.|
+|contiguous|ADJ.|adjacent to; touching upon.|The two countries are contiguous for a few miles; then they are separated by the gulf.|
+|continence|N.|self-restraint; sexual chastity.|At the con¬vent, Connie vowed to lead a life of continence. The question was, could Connie be content with always being continent?|
+|contingent|ADJ.|dependent on; conditional.|Cher's father informed her that any increase in her allowance was con¬tingent on the quality of her final grades, contingency, N.|
+|contingent|N.|group that makes up part of a gathering.|The New York contingent of delegates at the Democratic National Convention was a boisterous, sometimes rowdy lot.|
+|contortions|N.|twistings; distortions.|As the effects of the opiate wore away, the contortions of the patient became more violent and demonstrated how much pain she was enduring.|
+|contraband|N.|illegal trade; smuggling; smuggled goods.|The Coast Guard tries to prevent contraband in U.S. waters, also ADJ.|
+|contravene|v.|contradict; oppose: infringe on or trans|¬gress. Mr. Barrett did not expect his frail daughter Elizabeth to contravene his will by eloping with Robert Browning.|
+|contrite|||ADJ. penitent. Her contrite tears did not influence the judge when he imposed sentence, contrition, N.|
+|contrived|ADJ.|forced; artificial; not spontaneous.|Feeling ill at ease with his new in-laws, James made a few con¬trived attempts at conversation and then retreated into silence.|
+|controvert|v.|oppose with arguments; attempt to refute; contradict.|The witness's testimony was so clear and her reputation for honesty so well established that the defense attorney decided it was wiser to make no attempt to controvert what she said.|
+|contumacious|ADJ.|disobedient; resisting authority.|The contumacious mob shouted defiantly at the police, con¬tumacy, N.|
+|contusion|N.|bruise.|Black and blue after her fall, Sue was treated for contusions and abrasions.|
+|conundrum|||N. riddle; difficult problem. During the long car  ride,  she  invented  conundrums to entertain the children.|
+|convene|v.|assemble.|Because much needed legislation had to be enacted, the governor ordered the legislature to convene in special session by January 15.|
+|convention|N.|social or moral custom; established prac|¬tice. Flying in the face of convention, George Sand (Amandine Dudevant) shocked her contemporaries by taking lovers and wearing men's clothes.|
+|conventional|ADJ.|ordinary; typical.|His conventional upbringing left him wholly unprepared for his wife's eccentric family.|
+|converge||v. approach; tend to meet; come together.|African-American men from all over the United States converged on Washington to take part in the historic Million Man March, convergence, N.|
+|conversant|ADJ.|familiar with.|The lawyer is conversant with all the evidence.|
+|converse|N.|opposite.|The inevitable converse of peace is not war but annihilation.|
+|convert|N.|one who has adopted a different religion or opinion.|On his trip to Japan, though the president spoke at length about the merits of American automobiles, he made few converts to his beliefs, also v.|
+|convex|ADJ.|curving outward.|She polished the convex lens of her telescope.|
+|conveyance|N.|vehicle; transfer.|During the transit strike, commuters used various kinds of conveyances.|
+|conviction|N.|judgment that someone is guilty of a crime; strongly held belief.|Even her conviction for murder did not shake Lord Peter's conviction that Harriet was inno¬cent of the crime.|
+|convivial|ADJ.|festive; gay; characterized by joviality.|The convivial celebrators of the victory sang their college songs.|
+|convoke|v.|call together.|Congress was convoked at the outbreak of the emergency, convocation, N.|
+|convoluted|||ADJ. coiled around; involved; intricate. His argument was so convoluted that few of us could follow it intelligently.|
+|copious|ADJ.|plentiful.|She had copious reasons for rejecting the proposal.|
+|coquette|N.|flirt.|Because she refused to give him an answer to his proposal of marriage, he called her a coquette, also v.|
+|cordial|ADJ.|gracious; heartfelt.|Our hosts greeted us at the airport with a cordial welcome and a hearty hug.|
+|cordon|N.|extended line of men or fortifications to pre|¬vent access or egress. The police cordon was so tight that the criminals could not leave the area, also v.|
+|cornice|N.|projecting molding on building (usually above columns).|Because the stones forming the cornice had been loosened by the storms, the police closed the building until repairs could be made.|
+|cornucopia|N.|horn overflowing with fruit and grain; sym|¬bol of abundance. The encyclopedia salesman claimed the new edition was a veritable cornucopia of informa¬tion, an inexhaustible source of knowledge for the entire family.|
+|corollary|N.|consequence; accompaniment.|Brotherly love is a complex emotion, with sibling rivalry its natural corollary.|
+|corporeal|ADJ.|bodily; material.|The doctor had no patience with spiritual matters: his job was to attend to his patients' corporeal problems, not to minister to their souls.|
+|corpulent|ADJ.|very fat.|The corpulent man resolved to reduce, corpulence, N.|
+|correlation|N.|mutual relationship.|He sought to determine the correlation that existed between ability in algebra and ability to interpret reading exercises, correlate, v., N.|
+|corroborate|v.|confirm; support.|Though Huck was quite willing to corroborate Tom's story, Aunt Polly knew better than to believe either of them.|
+|corrode|v.|destroy by chemical action.|The girders supporting the bridge corroded so gradually that no one suspected any danger until the bridge suddenly col¬lapsed, corrosion, N.|
+|corrosive|ADJ.|eating away by chemicals or disease.|Stainless steel is able to withstand the effects of corro¬sive chemicals.|
+|corrugated|ADJ.|wrinkled; ridged.|She wished she could smooth away the wrinkles from his corrugated brow.|
+|cosmic|ADJ.|pertaining to the universe; vast.|Cosmic rays derive their name from the fact that they bombard the earth's atmosphere from outer space, cosmos, N.|
+|coterie|N.|group that meets socially; select circle.|After his book had been published, he was invited to join the literary coterie that lunched daily at the hotel.|
+|countenance|v.|approve; tolerate.|Miss Manners refused to countenance such rude behavior on their part.|
+|countenance|N.|face.|When Jose saw his newborn daughter, a proud smile spread across his countenance.|
+|countermand|v.|cancel; revoke.|The general counter¬mandedthe orders issued in his absence.|
+|counterpart|N.|a thing that completes another; things very much alike.|Night and day are counterparts.|
+|coup|N.|highly successful action or sudden attack.|As the news of his coup spread throughout Wall Street, his fellow brokers dropped by to congratulate him.|
+|couple|v.|join; unite.|The-Flying Karamazovs couple expert juggling and amateur joking in their nightclub act.|
+|courier|N.|messenger.|The publisher sent a special courier to pick up the manuscript.|
+|covenant|N.|agreement.|We must comply with the terms of the covenant.|
+|covert|ADJ.|secret; hidden; implied.|Investigations of the Central Intelligence Agency and other secret service net¬works reveal that such covert operations can get out of control.|
+|covetous|ADJ.|avaricious; eagerly desirous of.|The child was covetous by nature and wanted to take the toys belonging to his classmates, covet, v.|
+|cow|v.|terrorize; intimidate.|The little boy was so cowed by the hulking bully that he gave up his lunch money without a word of protest.|
+|cower|v.|shrink quivering, as from fear.|The frightened child cowered in the corner of the room.|
+|coy'|ADJ.|shy; modest; coquettish.|Reluctant to commit herself so early in the game, Kay was coy in her answers to Ken's offer.|
+|cozen|v.|cheat; hoodwink; swindle.|He was the kind of individual who would cozen his friends in a cheap card game but remain eminently ethical in all his business dealings.|
+|crabbed|ADJ.|sour; peevish.|The children avoided the crabbed old man because he scolded them when they made noise.|
+|crass|ADJ.|very unrefined; grossly insensible.|The film critic deplored the crass commercialism of movie-makers who abandon artistic standards in order to make a quick buck.|
+|craven|ADJ.|cowardly.|Lillian's craven refusal to join the protest was criticized by her comrades, who had expected her to be brave enough to stand up for her beliefs.|
+|credence|N.|belief.|Do not place any credence in his promises.|
+|credo|N.|creed.|I believe we may best describe her credo by saying that it approximates the Golden Rule.|
+|credulity|N.|belief on slight evidence; gullibility; naivete.|Con artists take advantage of the credulity of inexperi¬enced investors to swindle them out of their savings, credulous, ADJ.|
+|creed|N.|system of religious or ethical belief.|Any loyal American's creed must emphasize love of democracy.|
+|crescendo|N.|increase in the volume or intensity, as in a musical passage; climax.|The overture suddenly changed from a quiet pastoral theme to a crescendo fea¬turing blaring trumpets and clashing cymbals.|
+|crestfallen|ADJ.|dejected; dispirited.|We were surprised at his reaction to the failure of his project; instead of being crestfallen, he was busily engaged in planning new activities.|
+|crevice|N.|crack; fissure.|The mountain climbers found footholds in the tiny crevices in the mountainside.|
+|cringe|v.|shrink back, as if in fear.|The dog cringed, expecting a blow.|
+|criteria|N.||PL. standards used in judging. What criteria did you use when you selected this essay as the prize winner? criterion, SING.|
+|crone|N.|hag.|The toothless crone frightened us when she smiled.|
+|crotchety|ADJ.|eccentric; whimsical.|Although he was reputed to be a crotchety old gentleman, I found his ideas substantially sound and sensible.|
+|crux|N.|essential or main point.|This is the crux of the entire problem: everything centers on its being resolved, crucial, ADJ.|
+|crypt|N.|secret recess or vault usually used for burial.|Until recently only bodies of rulers and leading states¬men were interred in this crypt.|
+|cryptic|ADJ.|mysterious; hidden; secret.|Thoroughly baffled by Holmes's cryptic remarks, Watson wondered whether Holmes was intentionally concealing his thoughts about the crime.|
+|cubicle|N.|small chamber used for sleeping.|After her many hours of intensive study in the library, she retired to her cubicle.|
+|cuisine|N.|style of cooking.|French cuisine is noted for its use of sauces and wines.|
+|culinary|ADJ.|relating to cooking.|Many chefs attribute their culinary success to the wise use of spices.|
+|cull|v.|pick out; reject.|Every month the farmer culls the nonlaying hens from his flock and sells them to the local butcher, also N.|
+|culmination|N.|attainment of highest point.|His inaugura¬tion as President of the United States marked the culmi¬nation of his political career.|
+|culpable|ADJ.|deserving blame.|Corrupt politicians who condone the activities of the gamblers are equally culpable.|
+|culvert|N.|artificial channel for water.|If we build a culvert under the road at this point, we will reduce the possibility of the road's being flooded during the rainy season.|
+|cumbersome|ADJ.|heavy; hard to manage.|She was bur¬dened with cumbersome parcels.|
+|cumulative|ADJ.|growing by addition.|Vocabulary-building is a cumulative process: as you go through your flash cards, you will add new words to your vocabulary, one by one.|
+|cupidity|N.|greed.|The defeated people could not satisfy the cupidity of the conquerors, who demanded excessive tribute.|
